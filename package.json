@@ -51,7 +51,7 @@
     "elasticsearch": "^2.3.0",
     "express": "3.0.x",
     "generic-pool": "latest",
-    "htmlencode": "0.0.3",
+    "htmlencode": "0.0.4",
     "irc": "git://github.com/scrollback/node-irc.git",
     "jade": "0.x",
     "limiter": "latest",
