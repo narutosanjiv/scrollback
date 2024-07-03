@@ -53,7 +53,7 @@
     "generic-pool": "latest",
     "htmlencode": "0.0.3",
     "irc": "git://github.com/scrollback/node-irc.git",
-    "jade": "0.x",
+    "jade": "1.11.0",
     "limiter": "latest",
     "newrelic": "latest",
     "nodemailer": "0.7",
